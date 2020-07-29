@@ -1,0 +1,13 @@
+{
+    "name": "andrej/curl-parser",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.14",
+        "scotteh/php-dom-wrapper": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Andrew Novikov",
+            "email": "anov25m@gmail.com"
+        }
+    ]
+}
